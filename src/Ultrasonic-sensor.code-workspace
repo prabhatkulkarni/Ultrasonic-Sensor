@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Ultrasonic-sensor",
+			"path": "../.."
+		},
+		{
+			"name": "UltraSonic sensor",
+			"path": "../../../../Documents/PlatformIO/Projects/UltraSonic sensor"
+		}
+	],
+	"settings": {}
+}
